@@ -15,7 +15,7 @@ const Alexa = require('alexa-sdk');
 // Key global constants.
 //=========================================================================================================================================
 
-const APP_ID = "amzn1.ask.skill.6a77fab5-a034-497f-bc9e-e6c697a476fb";
+const APP_ID = undefined;
 
 const SKILL_NAME = 'Career Path';
 const GET_CAREER_MESSAGE = "Today's career is: ";
